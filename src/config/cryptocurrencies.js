@@ -8,6 +8,7 @@ const supported: CryptoCurrencyIds[] = [
   'ethereum',
   'ripple',
   'bitcoin_cash',
+  'unobtanium',
   'litecoin',
   'dash',
   'ethereum_classic',
